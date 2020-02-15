@@ -1,5 +1,5 @@
 
-# Vision- - A Face-Recognition Surveillance System
+# Vision- A Face-Recognition Surveillance System
 
 | Details               |                    |
 |-----------------------|---------------     |
