@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bolt IoT Platform</title>
+        <script type="text/javascript" src="https://cloud.boltiot.com/static/js/boltCommands.js"></script>
+        <script>
+        setKey('{{ApiKey}}','{{Name}}');
+        </script>
+    </head>
+    <body>
+            
+        <button onclick="digitalWrite(0, 'HIGH');">ON</button>
+        <button onclick="digitalWrite(0, 'LOW');">OFF</button>
+            
+    </body>
+</html>
