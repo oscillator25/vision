@@ -1,3 +1,4 @@
+[![codecov](https://codecov.io/gl/xtressials:xtressvue/vision/branch/\x6d6173746572/graph/badge.svg?token=3P9ME7U4S2)](https://codecov.io/gl/xtressials:xtressvue/vision)
 
 # Vision- A Face-Recognition Surveillance System
 
